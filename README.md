@@ -3,6 +3,9 @@
 Complete the tasks in the Python Notebook in this repository.
 Make sure to add and push the pkl or text file of your scraped html (this is specified in the notebook)
 
+## Module 6 Jupyter Notbook for Web Mining 
+Creator: Nolan Moss
+
 ## Rubric
 
 * (Question 1) Article html stored in separate file that is committed and pushed: 1 pt
@@ -13,3 +16,5 @@ Make sure to add and push the pkl or text file of your scraped html (this is spe
 * (Question 6) Histogram shown with appropriate labelling: 1 pt
 * (Question 7) Histogram shown with appropriate labelling: 1 pt
 * (Question 8) Thoughtful answer provided: 1 pt
+
+
